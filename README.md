@@ -19,7 +19,7 @@ This will give the ability to bridge fiat entry to the TF Platform.
 * [Adnan Fatayerji](https://github.com/AdnanFatayerji)
 
 ### Team:
-* .
+* [TO BE UPDATED]
 * .
 * .
 
