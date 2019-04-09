@@ -37,3 +37,15 @@ https://docs.grid.tf/euroflow-io
 
 ### Google Drive
 https://drive.google.com/drive/u/2/folders/1Qz44awpRicHzwlbgDd-HaRfFL1WNAsOn
+
+## Repos
+
+### [Home](https://github.com/euroflow-io/home)
+Home of the organization
+
+### [www_euroflow_io](https://github.com/euroflow-io/www_euroflow_io)
+Landing page website: [www.euroflow.io](https://www.euroflow.io) 
+
+### [info](https://github.com/euroflow-io/info)
+Organization wiki. Hosted as [wiki.euroflow.io](http://wiki.euroflow.io/)
+
